@@ -1,0 +1,19 @@
+table br{
+	text-align:center;
+	font-family: sans-serif;
+}
+.judul{
+	font-family: sans-serif;
+	text-align:center;
+}
+
+table td{
+	border: 1px solid #000;
+    padding: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #FF9F9F;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
